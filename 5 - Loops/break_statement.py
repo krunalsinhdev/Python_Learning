@@ -1,7 +1,7 @@
 
 """
 break_statement.py
-Learn how to stop a loop using break.
+Learn how to stop a loop using break .
 """
 
 # 1. Stop when the number reaches 5
